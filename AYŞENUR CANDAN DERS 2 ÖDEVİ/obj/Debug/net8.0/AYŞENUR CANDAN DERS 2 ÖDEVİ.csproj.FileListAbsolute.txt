@@ -1,0 +1,14 @@
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.AssemblyInfoInputs.cache
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.AssemblyInfo.cs
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.csproj.CoreCompileInputs.cache
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\bin\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.exe
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\bin\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.deps.json
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\bin\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.runtimeconfig.json
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\bin\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.dll
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\bin\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.pdb
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.dll
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\refint\AYŞENUR CANDAN DERS 2 ÖDEVİ.dll
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.pdb
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\AYŞENUR CANDAN DERS 2 ÖDEVİ.genruntimeconfig.cache
+C:\Users\aysen\source\repos\AYŞENUR CANDAN DERS 2 ÖDEVİ\AYŞENUR CANDAN DERS 2 ÖDEVİ\obj\Debug\net8.0\ref\AYŞENUR CANDAN DERS 2 ÖDEVİ.dll
